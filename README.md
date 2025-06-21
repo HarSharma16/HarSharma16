@@ -75,14 +75,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsharma16&theme=dark" alt="harsharma16" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarSharma16/HarSharma16/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarSharma16/HarSharma16/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HarSharma16/HarSharma16/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 ---
 
 <h5 align="center">𝑻𝒉𝒂𝒏𝒌 𝒚𝒐𝒖 𝒇𝒐𝒓 𝒗𝒊𝒔𝒊𝒕𝒊𝒏𝒈 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆! 🙌</h5>
