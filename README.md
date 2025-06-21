@@ -17,10 +17,6 @@
 - 🌱 I’m currently learning **MERN Stack**
 - 📫 How to reach me: **[harsharma16072004@gmail.com](mailto:harsharma16072004@gmail.com)**
 
-<p align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif" alt="gif"/>
-</p>
-
 ---
 
 ### 🔗 Connect with Me:
