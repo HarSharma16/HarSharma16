@@ -1,5 +1,5 @@
 <h1 align="center">𝑯𝒊 👋, 𝑰'𝒎 𝑯𝒂𝒓𝒔𝒉 𝑲𝒖𝒎𝒂𝒓 𝑺𝒉𝒂𝒓𝒎𝒂</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harsharma16&label=Profile%20views&color=0e75b6&style=flat" alt="harsharma16" />
